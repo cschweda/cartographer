@@ -1,4 +1,5 @@
-"The Cartographer's Commission" by cschweda
+"The Cartographer's Commission" by An Apprentice Cartographer
+
 [Include necessary extensions]
 Include Basic Screen Effects by Emily Short.
 
